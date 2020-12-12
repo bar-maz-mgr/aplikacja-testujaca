@@ -8,4 +8,4 @@
 	path = backend
 	branch = main
 	update = merge
-	url = https://github.com/bar-maz-mgr/backend-aplikacji-testujacej
+	url = https://github.com/bar-maz-mgr/backend-aplikacji-testujacej.git
